@@ -1,10 +1,11 @@
 html, body {
   margin: 0;
   font-family: Arial;
-  color: #FFFFFF; }
+  color: #FFFFFF;
+  font-size: 1rem; }
 
 p, a {
-  font-size: 0.75rem; }
+  font-size: 1rem; }
 
 img {
   padding-left: 30px;

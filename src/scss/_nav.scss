@@ -1,7 +1,7 @@
 .nav {
 > * {
     text-align: center;
-}
+
     width: 15%;
     min-width: 170px;
     color: $primary-color;
@@ -9,14 +9,11 @@
     padding-right: 30px;
     font-size: 1.7rem;
 }
-    ul, li {
-    font-size: 1rem;
+    ul, li, a {
+    font-size: 1.3rem;
 }
     h4 {
       -webkit-margin-before: 0;
       margin-left: 50px;
     }
-
-
   }
-  
